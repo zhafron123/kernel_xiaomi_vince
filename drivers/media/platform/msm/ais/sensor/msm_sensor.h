@@ -31,8 +31,8 @@
 #include <media/ais/msm_ais_sensor.h>
 #include <media/v4l2-subdev.h>
 #include <media/v4l2-ioctl.h>
-#include "msm_camera_i2c.h"
-#include "msm_camera_dt_util.h"
+#include "../../../../drivers/media/platform/msm/camera_v2/sensor/io/msm_camera_i2c.h"
+#include "../../../../drivers/media/platform/msm/camera_v2/sensor/io/msm_camera_dt_util.h"
 #include "msm_sd.h"
 #include "msm_sensor_init.h"
 
